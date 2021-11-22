@@ -1,0 +1,16 @@
+orderedLinkedList/Node.java
+ orderedLinkedList.Node
+Sequential.java
+ Sequential
+multithreading/WorkerSum.java
+ multithreading.WorkerSum
+orderedLinkedList/Monom.java
+ orderedLinkedList.Monom
+orderedLinkedList/OrderedLinkedList.java
+ orderedLinkedList.OrderedLinkedList
+multithreading/WorkerReading.java
+ multithreading.WorkerReading
+Main.java
+ Main
+multithreading/Multithread.java
+ multithreading.Multithread
