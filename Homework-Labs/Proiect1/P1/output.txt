@@ -1,0 +1,251 @@
+03.01.2022  19:14
+
+Spectacolul Test are vandute locurile: [] si soldul total: 0
+Spectacolul Test2 are vandute locurile: [] si soldul total: 0
+
+Spectacolul Test are vandute locurile: [] si soldul total: 0
+Spectacolul Test2 are vandute locurile: [] si soldul total: 0
+
+Spectacolul Test are vandute locurile: [] si soldul total: 0
+Spectacolul Test2 are vandute locurile: [] si soldul total: 0
+
+Spectacolul Test are vandute locurile: [] si soldul total: 0
+Spectacolul Test2 are vandute locurile: [] si soldul total: 0
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64] si soldul total: 150
+       Vanzarea locurilor [36, 2, 90, 25, 38, 21, 7, 69, 73, 64] cu suma totala de 150 este corecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48] si soldul total: 200
+       Vanzarea locurilor [99, 94, 44, 91, 63, 18, 72, 89, 71, 48] cu suma totala de 200 este corecta
+       Vanzarea locurilor [25, 2, 38, 89, 93, 48, 88, 83, 6, 7] cu suma totala de 200 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64] si soldul total: 150
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30] si soldul total: 340
+       Vanzarea locurilor [97, 6, 83, 65, 77, 74, 30] cu suma totala de 140 este corecta
+       Vanzarea locurilor [48, 16, 12, 98, 41, 80, 66, 15] cu suma totala de 160 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8] si soldul total: 240
+       Vanzarea locurilor [68, 86, 91, 11, 79, 8] cu suma totala de 90 este corecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30] si soldul total: 340
+       Vanzarea locurilor [52, 5, 95, 29, 37, 13, 96, 44, 6] cu suma totala de 200 este incorecta
+       Vanzarea locurilor [26, 65, 95, 54, 87, 11, 40, 19] cu suma totala de 160 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8] si soldul total: 240
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96] si soldul total: 380
+       Vanzarea locurilor [16, 96] cu suma totala de 40 este corecta
+       Vanzarea locurilor [8, 61, 55, 84, 47, 56, 53, 97, 58] cu suma totala de 200 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8] si soldul total: 240
+       Vanzarea locurilor [69, 2, 78, 60] cu suma totala de 60 este incorecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96] si soldul total: 380
+       Vanzarea locurilor [51, 36, 58, 32, 71, 76, 86, 73, 82] cu suma totala de 180 este incorecta
+       Vanzarea locurilor [83, 40, 14, 38, 49, 63] cu suma totala de 140 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8] si soldul total: 240
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42] si soldul total: 540
+       Vanzarea locurilor [37, 61, 28, 69, 73, 86, 23, 42] cu suma totala de 160 este corecta
+       Vanzarea locurilor [30, 43, 96, 26, 75, 72, 3, 2] cu suma totala de 180 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4] si soldul total: 255
+       Vanzarea locurilor [4] cu suma totala de 15 este corecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42] si soldul total: 540
+       Vanzarea locurilor [87, 6, 80] cu suma totala de 60 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87] si soldul total: 285
+       Vanzarea locurilor [74, 87] cu suma totala de 30 este corecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4] si soldul total: 640
+       Vanzarea locurilor [17, 1, 39, 49, 4] cu suma totala de 100 este corecta
+       Vanzarea locurilor [3, 56, 83, 57] cu suma totala de 80 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87] si soldul total: 285
+       Vanzarea locurilor [75, 4, 36, 89, 56, 85] cu suma totala de 105 este incorecta
+       Vanzarea locurilor [72, 45, 56, 7, 31, 75, 28] cu suma totala de 105 este incorecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4] si soldul total: 640
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+       Vanzarea locurilor [98, 67, 41, 45, 44, 39] cu suma totala de 90 este corecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4] si soldul total: 640
+       Vanzarea locurilor [84, 55, 29, 15, 5, 18, 42, 39, 4, 36] cu suma totala de 200 este incorecta
+       Vanzarea locurilor [29, 61, 27, 9, 84, 39, 21] cu suma totala de 140 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+       Vanzarea locurilor [41, 81, 23, 16, 98, 46, 1] cu suma totala de 105 este incorecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4] si soldul total: 640
+       Vanzarea locurilor [81, 83, 2, 61, 97] cu suma totala de 100 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+       Vanzarea locurilor [61, 79, 40, 2, 24, 13, 93, 42] cu suma totala de 120 este incorecta
+       Vanzarea locurilor [26, 39, 30, 8, 46, 88, 84, 18, 69, 59] cu suma totala de 150 este incorecta
+       Vanzarea locurilor [64, 16, 50, 52, 68, 41, 40] cu suma totala de 105 este incorecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4] si soldul total: 640
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+       Vanzarea locurilor [54, 87, 69, 79, 67, 29, 98, 20] cu suma totala de 120 este incorecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4] si soldul total: 640
+       Vanzarea locurilor [80, 37, 65, 96, 3, 53, 47, 76, 19] cu suma totala de 200 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+       Vanzarea locurilor [80, 29, 52, 55, 75, 66, 85, 3, 87] cu suma totala de 135 este incorecta
+       Vanzarea locurilor [49, 25, 80, 96] cu suma totala de 60 este incorecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4] si soldul total: 640
+       Vanzarea locurilor [51, 86] cu suma totala de 40 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+       Vanzarea locurilor [20, 92, 4, 34, 27, 2] cu suma totala de 105 este incorecta
+       Vanzarea locurilor [73, 77, 45, 78, 12, 71] cu suma totala de 90 este incorecta
+       Vanzarea locurilor [74, 1, 34, 18, 22, 7, 78, 30] cu suma totala de 120 este incorecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4] si soldul total: 640
+       Vanzarea locurilor [98, 42, 36, 9, 28, 64] cu suma totala de 120 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4, 95] si soldul total: 660
+       Vanzarea locurilor [37, 86] cu suma totala de 40 este incorecta
+       Vanzarea locurilor [95] cu suma totala de 20 este corecta
+       Vanzarea locurilor [93, 11, 65, 50] cu suma totala de 80 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4, 95] si soldul total: 660
+       Vanzarea locurilor [91, 19, 47, 56, 96, 29, 38, 11] cu suma totala de 180 este incorecta
+       Vanzarea locurilor [10, 78, 65] cu suma totala de 60 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4, 95] si soldul total: 660
+       Vanzarea locurilor [48, 29, 14, 53, 20, 21, 13, 89] cu suma totala de 160 este incorecta
+       Vanzarea locurilor [3, 58, 31, 89, 56, 66, 10, 28, 34, 63] cu suma totala de 200 este incorecta
+       Vanzarea locurilor [49, 83, 33, 40, 78, 8, 57, 59, 97] cu suma totala de 200 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+       Vanzarea locurilor [90, 80] cu suma totala de 30 este incorecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4, 95] si soldul total: 660
+       Vanzarea locurilor [82, 100, 4, 69, 84] cu suma totala de 100 este incorecta
+
+Spectacolul Test are vandute locurile: [36, 2, 90, 25, 38, 21, 7, 69, 73, 64, 68, 86, 91, 11, 79, 8, 4, 74, 87, 98, 67, 41, 45, 44, 39] si soldul total: 375
+       Vanzarea locurilor [21, 31, 14, 25, 73, 9, 36, 99, 84, 90] cu suma totala de 150 este incorecta
+       Vanzarea locurilor [93, 59, 19, 91, 10, 98, 3, 28] cu suma totala de 120 este incorecta
+Spectacolul Test2 are vandute locurile: [99, 94, 44, 91, 63, 18, 72, 89, 71, 48, 97, 6, 83, 65, 77, 74, 30, 16, 96, 37, 61, 28, 69, 73, 86, 23, 42, 17, 1, 39, 49, 4, 95] si soldul total: 660
+       Vanzarea locurilor [45, 92, 1, 80, 28, 55] cu suma totala de 140 este incorecta
+
+03.01.2022  19:20
+
+Spectacolul Test are vandute locurile: [] si soldul total: 0
+Spectacolul Test2 are vandute locurile: [] si soldul total: 0
+
+Spectacolul Test are vandute locurile: [] si soldul total: 0
+Spectacolul Test2 are vandute locurile: [] si soldul total: 0
+
+Spectacolul Test are vandute locurile: [] si soldul total: 0
+Spectacolul Test2 are vandute locurile: [] si soldul total: 0
+
+Spectacolul Test are vandute locurile: [] si soldul total: 0
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51] si soldul total: 80
+       Vanzarea locurilor [53, 74, 12, 51] cu suma totala de 80 este corecta
+
+Spectacolul Test are vandute locurile: [] si soldul total: 0
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58] si soldul total: 280
+       Vanzarea locurilor [66, 13, 48] cu suma totala de 60 este corecta
+       Vanzarea locurilor [77, 30, 68, 26, 8, 34] cu suma totala de 140 este corecta
+       Vanzarea locurilor [58] cu suma totala de 20 este corecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79] si soldul total: 45
+       Vanzarea locurilor [44, 84, 79] cu suma totala de 45 este corecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58] si soldul total: 280
+       Vanzarea locurilor [68, 56, 46, 77, 39, 99] cu suma totala de 120 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90] si soldul total: 165
+       Vanzarea locurilor [62, 83, 72, 30, 69, 73, 7, 90] cu suma totala de 120 este corecta
+       Vanzarea locurilor [73, 17, 36, 56, 70, 71, 89, 22, 20] cu suma totala de 135 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55] si soldul total: 440
+       Vanzarea locurilor [100, 16, 22, 38, 19, 20, 15, 55] cu suma totala de 160 este corecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90] si soldul total: 165
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23] si soldul total: 480
+       Vanzarea locurilor [5, 23] cu suma totala de 40 este corecta
+       Vanzarea locurilor [77, 18, 36, 5, 69, 58] cu suma totala de 120 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45] si soldul total: 180
+       Vanzarea locurilor [45] cu suma totala de 15 este corecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23] si soldul total: 480
+       Vanzarea locurilor [41, 20, 56, 21] cu suma totala de 80 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45] si soldul total: 180
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69] si soldul total: 560
+       Vanzarea locurilor [34, 49, 63, 17, 32, 91, 78, 44] cu suma totala de 160 este incorecta
+       Vanzarea locurilor [90, 98, 39, 69] cu suma totala de 80 este corecta
+       Vanzarea locurilor [49, 100, 90, 69, 87] cu suma totala de 100 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15] si soldul total: 255
+       Vanzarea locurilor [84, 93, 20, 39, 34, 60] cu suma totala de 90 este incorecta
+       Vanzarea locurilor [46, 35, 56, 66, 15] cu suma totala de 75 este corecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69] si soldul total: 560
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20] si soldul total: 375
+       Vanzarea locurilor [57, 78, 24, 89, 13, 27, 10, 20] cu suma totala de 120 este corecta
+       Vanzarea locurilor [57, 48, 45, 72, 15, 67, 27] cu suma totala de 105 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27] si soldul total: 620
+       Vanzarea locurilor [87, 18, 27] cu suma totala de 60 este corecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20] si soldul total: 375
+       Vanzarea locurilor [83, 10, 38, 54, 49, 87, 77, 21] cu suma totala de 120 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88] si soldul total: 700
+       Vanzarea locurilor [36, 93, 75, 88] cu suma totala de 80 este corecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64] si soldul total: 390
+       Vanzarea locurilor [90, 69, 5, 27, 25, 32, 36] cu suma totala de 120 este incorecta
+       Vanzarea locurilor [64] cu suma totala de 15 este corecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88] si soldul total: 700
+       Vanzarea locurilor [3, 19, 97, 78, 100] cu suma totala de 100 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64] si soldul total: 390
+       Vanzarea locurilor [86, 90, 43, 78, 2, 64, 100, 5, 67] cu suma totala de 150 este incorecta
+       Vanzarea locurilor [37, 68, 80, 18, 56] cu suma totala de 75 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88] si soldul total: 700
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64, 50, 68, 42, 41, 87] si soldul total: 465
+       Vanzarea locurilor [50, 68, 42, 41, 87] cu suma totala de 75 este corecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88] si soldul total: 700
+       Vanzarea locurilor [8, 42, 43] cu suma totala de 60 este incorecta
+       Vanzarea locurilor [63, 3, 55, 29, 77] cu suma totala de 100 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64, 50, 68, 42, 41, 87] si soldul total: 465
+       Vanzarea locurilor [97, 45, 93, 53, 9] cu suma totala de 75 este incorecta
+       Vanzarea locurilor [15, 99, 53, 42] cu suma totala de 60 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88] si soldul total: 700
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64, 50, 68, 42, 41, 87] si soldul total: 465
+       Vanzarea locurilor [24] cu suma totala de 15 este incorecta
+       Vanzarea locurilor [61, 99, 17, 57, 65, 13, 36] cu suma totala de 105 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88] si soldul total: 700
+       Vanzarea locurilor [86, 97, 93, 60, 92, 9, 69, 24] cu suma totala de 160 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64, 50, 68, 42, 41, 87] si soldul total: 465
+       Vanzarea locurilor [100, 85, 32, 14, 75, 72] cu suma totala de 90 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88] si soldul total: 700
+       Vanzarea locurilor [13, 83, 97, 85, 91, 46] cu suma totala de 140 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64, 50, 68, 42, 41, 87] si soldul total: 465
+       Vanzarea locurilor [20, 76, 73] cu suma totala de 45 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88] si soldul total: 700
+       Vanzarea locurilor [35, 58, 32, 98, 17] cu suma totala de 100 este incorecta
+       Vanzarea locurilor [90, 39, 49, 50, 24] cu suma totala de 100 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64, 50, 68, 42, 41, 87] si soldul total: 465
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88] si soldul total: 700
+       Vanzarea locurilor [16, 14, 52, 12, 1, 34, 85, 62, 10] cu suma totala de 180 este incorecta
+       Vanzarea locurilor [11, 47, 73, 14, 18, 7, 23, 92, 99, 55] cu suma totala de 200 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64, 50, 68, 42, 41, 87] si soldul total: 465
+       Vanzarea locurilor [50, 4, 69] cu suma totala de 45 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88, 67, 24, 96] si soldul total: 760
+       Vanzarea locurilor [2, 65, 35, 70, 62, 8, 92, 32, 68, 29] cu suma totala de 200 este incorecta
+       Vanzarea locurilor [67, 24, 96] cu suma totala de 60 este corecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64, 50, 68, 42, 41, 87] si soldul total: 465
+       Vanzarea locurilor [96, 39, 83, 29, 48, 14] cu suma totala de 105 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88, 67, 24, 96] si soldul total: 760
+       Vanzarea locurilor [33, 25, 81, 24] cu suma totala de 80 este incorecta
+
+Spectacolul Test are vandute locurile: [44, 84, 79, 62, 83, 72, 30, 69, 73, 7, 90, 45, 46, 35, 56, 66, 15, 57, 78, 24, 89, 13, 27, 10, 20, 64, 50, 68, 42, 41, 87] si soldul total: 465
+       Vanzarea locurilor [90] cu suma totala de 15 este incorecta
+Spectacolul Test2 are vandute locurile: [53, 74, 12, 51, 66, 13, 48, 77, 30, 68, 26, 8, 34, 58, 100, 16, 22, 38, 19, 20, 15, 55, 5, 23, 90, 98, 39, 69, 87, 18, 27, 36, 93, 75, 88, 67, 24, 96, 65, 6] si soldul total: 800
+       Vanzarea locurilor [65, 6] cu suma totala de 40 este corecta
+       Vanzarea locurilor [26] cu suma totala de 20 este incorecta
+
