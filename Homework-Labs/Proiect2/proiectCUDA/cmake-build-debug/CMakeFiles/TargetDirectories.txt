@@ -1,0 +1,3 @@
+C:/Users/Maria/Desktop/proiectCUDA/cmake-build-debug/CMakeFiles/proiectCUDA.dir
+C:/Users/Maria/Desktop/proiectCUDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maria/Desktop/proiectCUDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
